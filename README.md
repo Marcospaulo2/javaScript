@@ -1,2 +1,2 @@
-# javaScript
-Exercícios em JavaScript
+# Exercícios em JavaScript
+
