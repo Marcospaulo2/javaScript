@@ -1,0 +1,7 @@
+let pais = 'Brasil'
+console.log(`Nasceu em ${pais}`)
+if (pais != 'Brasil') {
+    console.log('Voce é estrangeiro!')
+} else {
+    console.log('Voce é brasileiro ')
+}
